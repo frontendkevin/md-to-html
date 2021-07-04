@@ -1,0 +1,10 @@
+{
+  "name": "md-to-html",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.27.4",
+    "marked": "^2.1.3"
+  }
+}
